@@ -10,9 +10,6 @@ export default function App() {
               <Link to="/" className="font-semibold text-lg hover:text-indigo-200 transition-colors">
                 Home
               </Link>
-              <Link to="/about" className="font-medium hover:text-indigo-200 transition-colors">
-                About
-              </Link>
               <Link to="/catalog" className="font-medium hover:text-indigo-200 transition-colors">
                 Catalog
               </Link>
